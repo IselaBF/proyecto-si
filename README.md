@@ -1,8 +1,8 @@
-## Sistema Inteligente de Gestión de la Movilidad (SIGA) – Guadalajara
+## Sistema Inteligente de Gestión de la Movilidad (SIGA) – Cocula, Jalisco
 
 ## Descripción
 
-El SIGA es un sistema inteligente que ayuda a mejorar la circulación vehicular en Guadalajara.
+El SIGA es un sistema inteligente que ayuda a mejorar la circulación vehicular en **Cocula, Jalisco**.
 
 **¿Qué percibe?**
 
