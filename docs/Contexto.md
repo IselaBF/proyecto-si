@@ -8,9 +8,9 @@ El sistema funcionaría mediante cámaras y sensores colocados en puntos estrat�
 **Fuentes de datos:**
 Para el funcionamiento del SIGA propuesto para Cocula, Jalisco, se considerarían las siguientes fuentes de datos:
 
-**Cámaras y sensores de tráfico:** proporcionarían datos sobre la cantidad de vehículos, velocidad y nivel de congestionamiento en tiempo real.
-**INEGI – Censo de Población y Vivienda 2020:** se utilizaría como referencia para conocer las características de la población y la movilidad del municipio.
-**IIEG Jalisco – Censo de Población y Vivienda 2020:** proporciona información sociodemográfica y tabulados de movilidad cotidiana por municipio.
-**Ayuntamiento de Cocula:** cuenta con información pública relacionada con estadísticas de vialidad que puede servir como referencia para el análisis del tránsito.
+* **Cámaras y sensores de tráfico:** proporcionarían datos sobre la cantidad de vehículos, velocidad y nivel de congestionamiento en tiempo real.
+* **INEGI – Censo de Población y Vivienda 2020:** se utilizaría como referencia para conocer las características de la población y la movilidad del municipio.
+* **IIEG Jalisco – Censo de Población y Vivienda 2020:** proporciona información sociodemográfica y tabulados de movilidad cotidiana por municipio.
+* **Ayuntamiento de Cocula:** cuenta con información pública relacionada con estadísticas de vialidad que puede servir como referencia para el análisis del tránsito.
 
 **21 de septiembre de 2026.**
