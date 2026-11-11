@@ -14,9 +14,7 @@ plt.rcParams["figure.figsize"] = (9, 3.2)
 plt.rcParams["axes.grid"] = True
 
 
-# ---------------------------------------------------------------
-# Funciones de membresía (sin cambios)
-# ---------------------------------------------------------------
+# Funciones de membresía 
 def triangular(x, a, b, c):
     """Grado de membresia triangular. Debe admitir a == b o b == c."""
     x = np.asarray(x, dtype=float)
@@ -62,9 +60,7 @@ def graficar_variable(nombre, universo, conjuntos, marcar=None):
     plt.show()
 
 
-# ---------------------------------------------------------------
 # Grados de membresía de un valor
-# ---------------------------------------------------------------
 def grados(valor, universo, conjuntos):
     """Devuelve {conjunto: grado de membresía} para un valor dado."""
     return {etiqueta: float(np.interp(valor, universo, mu))
@@ -80,9 +76,7 @@ def imprimir_grados(nombre, valor, universo, conjuntos):
     print(f"   Conjunto dominante: {dominante}")
 
 
-# ---------------------------------------------------------------
 # Entorno y agente SIGA
-# ---------------------------------------------------------------
 class SIGA:
     """Entorno: tráfico vehicular en Cocula, Jalisco."""
 
