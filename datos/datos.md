@@ -28,6 +28,6 @@ Resultado: Acción realizada: ajustar los tiempos de los semáforos
 **Ingresa la cantidad de vehículos:**  5
 
 **Lo que imprimirá el programa:**  
-Datos: ('bajo', '60', '5')  
+Datos: ('bajo', '45', '5')  
 Decisión: mantener los tiempos de los semáforos  
 Resultado: Acción realizada: mantener los tiempos de los semáforos
